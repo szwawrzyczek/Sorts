@@ -6,7 +6,7 @@ BUILD_PATH = build
 BIN_PATH = $(BUILD_PATH)/bin
 
 # executable # 
-BIN_NAME = abdul
+BIN_NAME = Sorts
 
 # extensions #
 SRC_EXT = cpp
